@@ -286,10 +286,6 @@
 				>
 			</File>
 			<File
-				RelativePath=".\CgiMySql.cpp"
-				>
-			</File>
-			<File
 				RelativePath=".\Client.cpp"
 				>
 			</File>
@@ -361,10 +357,6 @@
 			</File>
 			<File
 				RelativePath=".\Cache.h"
-				>
-			</File>
-			<File
-				RelativePath=".\CgiMySql.h"
 				>
 			</File>
 			<File

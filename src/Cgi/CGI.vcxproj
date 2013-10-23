@@ -144,7 +144,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cache.cpp" />
-    <ClCompile Include="CgiMySql.cpp" />
     <ClCompile Include="Client.cpp" />
     <ClCompile Include="Cookie.cpp" />
     <ClCompile Include="DateHeure.cpp" />
@@ -164,7 +163,6 @@
     <ClInclude Include="App.h" />
     <ClInclude Include="AppCppCgi.h" />
     <ClInclude Include="Cache.h" />
-    <ClInclude Include="CgiMySql.h" />
     <ClInclude Include="ChampSql.h" />
     <ClInclude Include="Client.h" />
     <ClInclude Include="Convertisseur.h" />
